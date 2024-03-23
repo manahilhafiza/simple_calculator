@@ -1,2 +1,2 @@
-# simple_calculator
-This is a simple calculator
+# simple-calculator 
+"# simple-calculator" 
